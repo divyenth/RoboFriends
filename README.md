@@ -1,2 +1,0 @@
-# RoboFriends
-A ReactJs application
